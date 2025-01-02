@@ -30,7 +30,7 @@ public class Student_Grade_Tracker {
                 high = score[i];
         }
         avgm = (float) t / n;
-        System.out.println(""Average Mark: " + avgm);
+        System.out.println("Average Mark: " + avgm);
         System.out.println("Highest Mark: " + high);
         System.out.println("Lowest Mark: " + low);
     }
