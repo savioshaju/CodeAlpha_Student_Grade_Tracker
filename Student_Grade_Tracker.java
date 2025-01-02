@@ -16,7 +16,7 @@ public class Student_Grade_Tracker {
                     score[i] = mark;
                     break;
                 } else {
-                    System.out.println("Invalid input. Please enter a valid mark between 0 and 100.");
+                    System.out.println("Invalid mark. Please enter a valid mark between 0 and 100.");
                 }
             }
         }
